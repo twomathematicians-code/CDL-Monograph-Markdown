@@ -2,18 +2,9 @@
 
 A three-volume monograph on computational deep learning, covering mathematical foundations, neural-network algorithms, and current research frontiers. Aimed at PhD-level researchers and graduate students.
 
-**Author:** Mahesh Solanki · **Research Group:** scitamehtam research group
+**Author:** Mahesh Solanki · **Research:** scitamehtam research group
 
 This is the **GitHub Markdown edition** — every chapter is a plain `.md` file that renders natively on GitHub. No build tools required.
-
-## Why markdown?
-
-The Quarto/LaTeX PDF edition of this monograph had rendering issues (blank pages, broken theorem environments, missing code listings). Rather than fight LaTeX, this edition strips the markup down to **clean GitHub-flavored Markdown** that:
-
-- Renders perfectly on GitHub, GitLab, Bitbucket, and any markdown viewer
-- Reads cleanly as plain text in a terminal
-- Diffs cleanly in version control
-- Survives any future toolchain change
 
 ## Volumes and chapters
 
